@@ -72,7 +72,7 @@
 
 ## Checkout my Portfolio
 <div align="center">
-<a href="[https://github.com/https://github.com/RoycejChan](https://roycesportfolio.netlify.app/)" target="_blank">
+<a href="https://roycesportfolio.netlify.app/" target="_blank">
 <p> Portfolio </p>
 </a>
 </div>  
