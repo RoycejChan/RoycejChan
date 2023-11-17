@@ -73,7 +73,7 @@
 ## Checkout my Portfolio
 <div align="center">
 <a href="[https://github.com/https://github.com/RoycejChan](https://roycesportfolio.netlify.app/)" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<button alt=Portfolio style="margin-bottom: 5px; font-size: 1.5rem; padding: 1rem;" >Portfolio</button>
 </a>
 </div>  
   
@@ -83,7 +83,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/RoycejChan" target="_blank">
-<button style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" >Portfolio</button>
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/royceescalona" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
