@@ -73,7 +73,7 @@
 ## Checkout my Portfolio
 <div align="center">
 <a href="[https://github.com/https://github.com/RoycejChan](https://roycesportfolio.netlify.app/)" target="_blank">
-<button alt=Portfolio style="margin-bottom: 5px; font-size: 20px; padding: 20rem 32px; background-color: green">Portfolio</button>
+<p alt=Portfolio style="margin-bottom: 5px; font-size: 20px;>Portfolio</p>
 </a>
 </div>  
   
