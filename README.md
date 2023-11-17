@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">"I'm Royce, a self-taught developer 👨‍💻, currently focused on building my expertise and gaining professional experience in the field. I am working towards honing my skills for the challenges ahead."</div>  
   
 
@@ -75,6 +70,15 @@
 
 <br/>  
 
+## Checkout my Portfolio
+<div align="center">
+<a href="[https://github.com/https://github.com/RoycejChan](https://roycesportfolio.netlify.app/)" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
