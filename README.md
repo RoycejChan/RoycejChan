@@ -73,7 +73,7 @@
 ## Checkout my Portfolio
 <div align="center">
 <a href="[https://github.com/https://github.com/RoycejChan](https://roycesportfolio.netlify.app/)" target="_blank">
-<img src=  https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white alt=Portfolio style="margin-bottom: 5px;" />
+<p> Portfolio </p>
 </a>
 </div>  
   
