@@ -72,8 +72,10 @@
 
 ## Checkout my Portfolio
 <div align="center">
-  <a href="https://roycesportfolio.netlify.app/" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #FF4081; color: #ffffff; border-radius: 5px; font-size: 18px;">
-    Check out my Portfolio
+  <a href="https://roycesportfolio.netlify.app/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #FF4081; color: #ffffff; border: none; border-radius: 5px; font-size: 18px;">
+      Check out my Portfolio
+    </button>
   </a>
 </div>
   
