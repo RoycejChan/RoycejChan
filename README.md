@@ -1,10 +1,10 @@
-### <div align="center">"I'm Royce, a self-taught developer 👨‍💻, currently focused on building my expertise and gaining professional experience in the field. I am working towards honing my skills for the challenges ahead."</div>  
+### <div align="center">"I'm Royce, a developer 👨‍💻, currently focused on building my expertise and gaining professional experience in the field. I am working towards honing my skills for the challenges ahead."</div>  
   
 
 - 🔭 I’m currently working on learning React Native, data structures and algorithms  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to web developement and related technologies  
   
 
 - ⚡ Fun fact: I occasionally go crabbing, camping, and hiking  
