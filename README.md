@@ -1,11 +1,7 @@
-### <div align="center">"I'm Royce, a developer 👨‍💻, currently focused on building my expertise and gaining professional experience in the field. I am working towards honing my skills for the challenges ahead."</div>  
+### <div align="center">ello, I'm Royce 👋 </div>  
   
 
-- 🔭 I’m currently working on learning React Native, data structures and algorithms  
-  
-
-- ❓ Ask me about anything related to web developement and related technologies  
-  
+- 🔭 I’m currently working on learning DSA in JS.
 
 - ⚡ Fun fact: I occasionally go crabbing, camping, and hiking  
   
