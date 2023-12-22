@@ -1,4 +1,4 @@
-### <div align="center">ello, I'm Royce 👋 </div>  
+### <div align="center">Hello, I'm Royce 👋 </div>  
   
 
 - 🔭 I’m currently working on learning DSA in JS.
