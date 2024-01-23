@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on learning DSA in JS.
 
-- ⚡ Fun fact: I occasionally go crabbing, camping, and hiking  
+- ⚡ Fun fact: I occasionally car hiking, rock climbing, and fishing.  
   
 
 <br/>  
