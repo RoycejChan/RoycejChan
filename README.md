@@ -1,9 +1,9 @@
 ### <div align="center">Hello, I'm Royce 👋 </div>  
   
 
-- 🔭 I’m currently working on learning DSA in JS.
+- 🔭 I’m currently working on - Data Structures and Algorithms
 
-- ⚡ Fun fact: I occasionally car hiking, rock climbing, and fishing.  
+- ⚡ Fun fact: I occasionally travel by car to go hiking, rock climbing, and fishing.  
   
 
 <br/>  
