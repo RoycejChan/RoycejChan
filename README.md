@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on - Data Structures and Algorithms
 
-- ⚡ Fun fact: I occasionally travel by car to go hiking, rock climbing, and fishing.  
+- ⚡ Fun fact: I occasionally travel by car to go hiking, rock climbing, and fishing. I also like collecting hobbies and learning new things every week 
   
 
 <br/>  
