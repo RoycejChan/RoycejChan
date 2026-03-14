@@ -9,13 +9,7 @@
 <br/>  
 
 ## My Portfolio Website
-<div align="center">
-  <a href="https://roycesportfolio.netlify.app/" target="_blank" style="text-decoration: none;"
-    style="font-size: 30px;"  
-    >
-      Check out my Portfolio
-  </a>
-</div>
+
   
 
 <br/>  
